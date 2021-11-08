@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Simple chat application made using ReactJS and Chat Engine API
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Link to deployed project - [click here](https://kosu-chat-app.herokuapp.com).
 
 ## Available Scripts
 
